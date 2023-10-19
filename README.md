@@ -9,38 +9,34 @@ Well, let's start with topics, so that way we can jump to the important parts, r
 
 ###### <em> This is all still in WIP, since I have to learn how to do this too</em>
 <br>
-<details> 
-        <summary>GeeksforGeeks</summary> 
-         A Computer Science Portal for Geeks 
-    </details>  
 
 
   - [Introduction](#introduction)
-  - [Where do I begin?](#introduction)
+  - [Where do I begin?](#social)
   - [Objectives in Life](#objectives-in-life)
-  - [My Social Media and Contacts](#social)
+  - [My Social Media and Contacts](#my-social-media-and-contacts)
   - [Challenges](#challenges)
 
 <a id="introduction"></a>
 <h1 align="center" id="introduction">Introduction</h1> 
-<h5 align="center">(Brendon Vs The World!)</h5>
+<h6 align="center">~~ Brendon Vs The World! ~~</h6>
 
 So, what can I say about me...
 
-Well, I grew up in Brazil and moved to Portugal as an adult to try to get a better life for me and my family. Right now, I'm a Student at 42 Porto, and I'm leaning how to code from screech.
+Well, I grew up in Brazil and moved to Portugal as an adult to try to get a better life for me and my family. Right now, I'm a Student at 42 Porto, and I'm leaning how to code from scratch.
 
 And I really love anything related to music and games!
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=the_smokerbr" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=the_smokerbr" alt="Spotify recently played"/>
+  <br>
+  <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198067860521&show_in_game_bg=true&show_recent_game_bg=true"/>
 </div>
 <div align="left">
 
 <br>
-<a id="#social"></a>
-My Social Media and Contacts: 
-<br>
-<br>
+
+#### My Social Media and Contacts:
   
   <a href="discordapp.com/users/20253740410667008" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
