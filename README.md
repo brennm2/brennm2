@@ -34,12 +34,13 @@ And I really love anything related to music and games!
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=the_smokerbr" alt="Spotify recently played"  />
 </div>
-
-
 <div align="left">
 
-<a id="introduction"></a>
+<br>
+<a id="#social"></a>
 My Social Media and Contacts: 
+<br>
+<br>
   
   <a href="discordapp.com/users/20253740410667008" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
