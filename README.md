@@ -30,7 +30,7 @@ And I really love anything related to music and games!
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=the_smokerbr" alt="Spotify recently played"/>
   <br>
-  <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198067860521&show_in_game_bg=true&show_recent_game_bg=true"/>
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561198067860521&show_in_game_bg=true&show_recent_game_bg=true"/>
 </div>
 <div align="left">
 
