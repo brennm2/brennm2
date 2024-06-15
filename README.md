@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brendon</h1>
-<p align="center">A simple guy learning to code</p>
+<h6 align="center">A simple guy learning to code</h6>
 
 ###
 
