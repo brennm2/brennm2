@@ -4,18 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brennm2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brennm2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-<br>
-Well, let's start with topics, so that way we can jump to the important parts, right?
-
-###### <em> This is all still in WIP, since I have to learn how to do this too</em>
-<br>
-
-
-  - [Introduction](#introduction)
-  - [Where do I begin?](#social)
-  - [Objectives in Life](#objectives-in-life)
-  - [My Social Media and Contacts](#my-social-media-and-contacts)
-  - [Challenges](#challenges)
 
 <a id="introduction"></a>
 <h1 align="center" id="introduction">Introduction</h1> 
