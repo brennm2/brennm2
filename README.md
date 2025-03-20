@@ -13,9 +13,9 @@
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" src="https://badge.mediaplus.ma/starryblue/bde-souz?1337Badge=off&UM6P=off" alt="bde-souz's 42 stats" /></a>
 
-- 🔭 I’m currently working on: **IRCServ**
+- 🔭 I’m currently working on: **ft_transcendence**
 
-- 🌱 I’m currently learning: **C, C++ and Java**  
+- 🌱 I’m currently learning: **C, C++ and C#**  
 
 - 📫 How to reach me: **brendon_vianna@yahoo.com**
 
