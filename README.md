@@ -52,8 +52,8 @@
 | `Born2beroot`    | This project aims to introduce you to the wonderful world of virtualization. (No repository, sorry)             |
 | [`minitalk`](https://github.com/brennm2/mini_talk)    | Create a small data exchange program using UNIX signals as an intro to future UNIX projects.             |
 | [`push_swap`](https://github.com/brennm2/push_swap)    | Sort data on a stack with limited instructions and minimal moves, using optimal sorting algorithms.             |
-| [`so_long`](github.com/brennm2/so_long)    |  This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.              |
-| [`minishell`](github.com/brennm2/minishell)    |  The objective of this project is for you to create a simple shell.              |
+| [`so_long`](https://github.com/brennm2/so_long)    |  This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.              |
+| [`minishell`](https://github.com/brennm2/minishell)    |  The objective of this project is for you to create a simple shell.              |
 | [`Philosophers`](https://github.com/brennm2/philo)    |  This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.              |
 | [`cub3d`](https://github.com/brennm2/cub3d)    | Inspired by the first-ever FPS, this project explores ray-casting to create a dynamic maze view.             |
 | [`CPP Modules` ](https://github.com/brennm2/CPPs)   | The project focuses on Object-Oriented Programming in C++, using classes, inheritance, polymorphism, templates for reusable code, efficient memory management, and containers.             |
