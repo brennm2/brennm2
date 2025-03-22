@@ -25,6 +25,34 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brennm2&label=Profile%20views&color=0e75b6&style=flat" alt="brennm2" /> </p>
 
+
+###
+
+<h2 align="left">My projects at 42:</h2>
+
+###
+
+| Name        | Description                                                                 |
+|:-------------------------------------------------------|:-----------------------------------------------------------------------------:|
+| [`Libft`](https://github.com/brennm2/libft)    | First 42 project, recreating standard C library functions and other useful ones.             |
+| [`ft_printf`](https://github.com/brennm2/ft_printf)    | Recode `printf`, learn variadic functions, and reuse it in future projects.             |
+| [`get_next_line`](https://github.com/brennm2/get_next_line)    | Reads a file, `stdin`, or other inputs line by line, managing memory and buffers efficiently.             |
+| `Born2beroot`    | This project aims to introduce you to the wonderful world of virtualization. (No repository, sorry)             |
+| [`minitalk`](https://github.com/brennm2/mini_talk)    | Create a small data exchange program using UNIX signals as an intro to future UNIX projects.             |
+| [`push_swap`](github.com/brennm2/push_swap)    | Sort data on a stack with limited instructions and minimal moves, using optimal sorting algorithms.             |
+| [`so_long`](github.com/brennm2/so_long)    |  This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.              |
+| [`minishell`](github.com/brennm2/minishell)    |  The objective of this project is for you to create a simple shell.              |
+| [`Philosophers`](https://github.com/brennm2/philo)    |  This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.              |
+| [`cub3d`](https://github.com/brennm2/cub3d)    | Inspired by the first-ever FPS, this project explores ray-casting to create a dynamic maze view.             |
+| [`CPP Modules` ](https://github.com/brennm2/CPPs)   | The project focuses on Object-Oriented Programming in C++, using classes, inheritance, polymorphism, templates for reusable code, efficient memory management, and containers.             |
+| `NetPractice`    |  NetPractice is a general practical exercise to let you discover networking.  (No repository, sorry)             |
+| [`Inception`](https://github.com/brennm2/inception)    | The project focuses on automating infrastructure with Docker, configuring containers for Nginx, PHP, and MySQL, and implementing optimization and security measures.             |
+| [`ft_irc`](https://github.com/brennm2/ft_irc)    | Create your own IRC server in C++, fully compatible with an official client.              |
+| ft_transcendence (**In Progress**)   |  This project is centered around the design, development, and organization of a full-stack web application.               |
+
+
+
+
 ###
 
 <h2 align="left">Connect with me:</h2>
@@ -60,8 +88,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brennm2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brennm2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <a href="https://github.com/brennm2">
+  <img height="180em" img src="https://github-readme-stats.vercel.app/api?username=brennm2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  />
+  <img height="180em" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennm2&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"  />
+   </a>
 </div>
 
 ###
