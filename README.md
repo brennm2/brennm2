@@ -62,8 +62,19 @@
 | [`ft_irc`](https://github.com/brennm2/ft_irc)    | Create your own IRC server in C++, fully compatible with an official client.              |
 | ft_transcendence (**In Progress**)   |  This project is centered around the design, development, and organization of a full-stack web application.               |
 
+<br>
+<br>
 
+###
 
+<h2 align="left">Personal Projects:</h2>
+
+###
+
+| Name        | Description                                                                 |
+|:-------------------------------------------------------|:-----------------------------------------------------------------------------|
+| [`Catmas_Lights`](https://github.com/brennm2/Catmas_Lights/tree/main)    | A **winning game** that was created in 48 hours for a game jam.             |
+| [`TBOI Mods`](https://github.com/brennm2/Binding-of-Isaac-Mods)    | A repository of mods made for the game The binding of Isaac             |
 
 
 ###
