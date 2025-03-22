@@ -51,7 +51,7 @@
 | [`get_next_line`](https://github.com/brennm2/get_next_line)    | Reads a file, `stdin`, or other inputs line by line, managing memory and buffers efficiently.             |
 | `Born2beroot`    | This project aims to introduce you to the wonderful world of virtualization. (No repository, sorry)             |
 | [`minitalk`](https://github.com/brennm2/mini_talk)    | Create a small data exchange program using UNIX signals as an intro to future UNIX projects.             |
-| [`push_swap`](github.com/brennm2/push_swap)    | Sort data on a stack with limited instructions and minimal moves, using optimal sorting algorithms.             |
+| [`push_swap`](https://github.com/brennm2/push_swap)    | Sort data on a stack with limited instructions and minimal moves, using optimal sorting algorithms.             |
 | [`so_long`](github.com/brennm2/so_long)    |  This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.              |
 | [`minishell`](github.com/brennm2/minishell)    |  The objective of this project is for you to create a simple shell.              |
 | [`Philosophers`](https://github.com/brennm2/philo)    |  This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.              |
