@@ -19,11 +19,24 @@
 
 - 📫 How to reach me: **brendon_vianna@yahoo.com**
 
-- ⚡ Fun fact: **PAYDAY franchise made me start programming**
+- ⚡ Fun fact: **PAYDAY franchise got me into programming**
 
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brennm2&label=Profile%20views&color=0e75b6&style=flat" alt="brennm2" /> </p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brendon-vianna/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:brendon_marcello@yahoo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 
 ###
@@ -53,17 +66,6 @@
 
 
 
-###
-
-<h2 align="left">Connect with me:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/brendon-vianna/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
