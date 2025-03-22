@@ -33,7 +33,7 @@
 ###
 
 | Name        | Description                                                                 |
-|:-------------------------------------------------------|:-----------------------------------------------------------------------------:|
+|:-------------------------------------------------------|:-----------------------------------------------------------------------------|
 | [`Libft`](https://github.com/brennm2/libft)    | First 42 project, recreating standard C library functions and other useful ones.             |
 | [`ft_printf`](https://github.com/brennm2/ft_printf)    | Recode `printf`, learn variadic functions, and reuse it in future projects.             |
 | [`get_next_line`](https://github.com/brennm2/get_next_line)    | Reads a file, `stdin`, or other inputs line by line, managing memory and buffers efficiently.             |
