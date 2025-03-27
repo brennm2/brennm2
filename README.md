@@ -46,21 +46,21 @@
 
 | Name        | Description                                                                 |
 |:-------------------------------------------------------|:-----------------------------------------------------------------------------|
-| [`Libft`](https://github.com/brennm2/libft)    | First 42 project, recreating standard C library functions and other useful ones.             |
-| [`ft_printf`](https://github.com/brennm2/ft_printf)    | Recode `printf`, learn variadic functions, and reuse it in future projects.             |
-| [`get_next_line`](https://github.com/brennm2/get_next_line)    | Reads a file, `stdin`, or other inputs line by line, managing memory and buffers efficiently.             |
-| `Born2beroot`    | This project aims to introduce you to the wonderful world of virtualization. (No repository, sorry)             |
-| [`minitalk`](https://github.com/brennm2/mini_talk)    | Create a small data exchange program using UNIX signals as an intro to future UNIX projects.             |
-| [`push_swap`](https://github.com/brennm2/push_swap)    | Sort data on a stack with limited instructions and minimal moves, using optimal sorting algorithms.             |
-| [`so_long`](https://github.com/brennm2/so_long)    |  This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.              |
-| [`minishell`](https://github.com/brennm2/minishell)    |  The objective of this project is for you to create a simple shell.              |
-| [`Philosophers`](https://github.com/brennm2/philo)    |  This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.              |
-| [`cub3d`](https://github.com/brennm2/cub3d)    | Inspired by the first-ever FPS, this project explores ray-casting to create a dynamic maze view.             |
+| ft_transcendence (**In Progress**)   |  This project is centered around the design, development, and organization of a full-stack web application.               |
+| [`ft_irc`](https://github.com/brennm2/ft_irc)    | Create your own IRC server in C++, fully compatible with an official client.              |
+| [`Inception`](https://github.com/brennm2/inception)    | The project focuses on automating infrastructure with Docker, configuring containers for Nginx, PHP, and MySQL, and implementing optimization and security measures.             |
 | [`CPP Modules` ](https://github.com/brennm2/CPPs)   | The project focuses on Object-Oriented Programming in C++, using classes, inheritance, polymorphism, templates for reusable code, efficient memory management, and containers.             |
 | `NetPractice`    |  NetPractice is a general practical exercise to let you discover networking.  (No repository, sorry)             |
-| [`Inception`](https://github.com/brennm2/inception)    | The project focuses on automating infrastructure with Docker, configuring containers for Nginx, PHP, and MySQL, and implementing optimization and security measures.             |
-| [`ft_irc`](https://github.com/brennm2/ft_irc)    | Create your own IRC server in C++, fully compatible with an official client.              |
-| ft_transcendence (**In Progress**)   |  This project is centered around the design, development, and organization of a full-stack web application.               |
+| [`cub3d`](https://github.com/brennm2/cub3d)    | Inspired by the first-ever FPS, this project explores ray-casting to create a dynamic maze view.             |
+| [`minishell`](https://github.com/brennm2/minishell)    |  The objective of this project is for you to create a simple shell.              |
+| [`Philosophers`](https://github.com/brennm2/philo)    |  This project aims to teach concurrent programming, focusing on multithreading and multiprocessing.              |
+| [`so_long`](https://github.com/brennm2/so_long)    |  This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.              |
+| [`push_swap`](https://github.com/brennm2/push_swap)    | Sort data on a stack with limited instructions and minimal moves, using optimal sorting algorithms.             |
+| [`minitalk`](https://github.com/brennm2/mini_talk)    | Create a small data exchange program using UNIX signals as an intro to future UNIX projects.             |
+| `Born2beroot`    | This project aims to introduce you to the wonderful world of virtualization. (No repository, sorry)             |
+| [`get_next_line`](https://github.com/brennm2/get_next_line)    | Reads a file, `stdin`, or other inputs line by line, managing memory and buffers efficiently.             |
+| [`ft_printf`](https://github.com/brennm2/ft_printf)    | Recode `printf`, learn variadic functions, and reuse it in future projects.             |
+| [`Libft`](https://github.com/brennm2/libft)    | First 42 project, recreating standard C library functions and other useful ones.             |
 
 <br>
 <br>
